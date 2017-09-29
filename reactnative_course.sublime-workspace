@@ -1,0 +1,976 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"thumbn",
+				"thumbnailStyle"
+			],
+			[
+				"thu",
+				"thumbnailStyle"
+			],
+			[
+				"popu",
+				"populateList"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"form",
+				"formaction\tAttr"
+			],
+			[
+				"News",
+				"News_model"
+			],
+			[
+				"my",
+				"myConnection"
+			],
+			[
+				"new",
+				"newConnection"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"h",
+				"host"
+			],
+			[
+				"mys",
+				"mysqli_connect"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ht",
+				"htmlForm"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"th",
+				"the_width"
+			],
+			[
+				"this",
+				"thisColour"
+			],
+			[
+				"usr",
+				"userID"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"ra",
+				"radius_squared"
+			],
+			[
+				"the",
+				"the_radius"
+			],
+			[
+				"t",
+				"the_id"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"b",
+				"baseWage"
+			],
+			[
+				"a",
+				"allBands"
+			],
+			[
+				"ban",
+				"bandArray1"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"task",
+				"task_form"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"main",
+				"main_page"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"ui-",
+				"ui-mini"
+			],
+			[
+				"ui",
+				"ui-btn"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"name",
+				"nameInput"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"date",
+				"dateValue"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"dat",
+				"dateButton"
+			],
+			[
+				"prgr",
+				"progress-label"
+			],
+			[
+				"prog",
+				"progressbar"
+			],
+			[
+				"fi",
+				"fieldset\tTag"
+			],
+			[
+				"progress",
+				"progressbar"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"nam",
+				"nameSpace"
+			],
+			[
+				"pop",
+				"popupLink"
+			],
+			[
+				"img",
+				"imgId"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"flick",
+				"flickrRetrieve"
+			],
+			[
+				"search",
+				"searchString"
+			],
+			[
+				"sear",
+				"searchString"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"add",
+				"addElement"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"button",
+				"button-container"
+			],
+			[
+				"you",
+				"yourHealth"
+			],
+			[
+				"You",
+				"Your"
+			],
+			[
+				"opp",
+				"oppHealth"
+			],
+			[
+				"cic",
+				"circleArea"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"cat",
+				"catPosition"
+			],
+			[
+				"lat",
+				"latlon"
+			],
+			[
+				"ma",
+				"mapholder"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"g",
+				"getLocation"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"M",
+				"MerriweatherSans"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"header",
+				"header_spacer"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"gre",
+				"bott_grey_border"
+			],
+			[
+				"sp",
+				"spacer"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mo",
+				"mostviewed"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"sha",
+				"share_icon"
+			],
+			[
+				"bott",
+				"bott_grey_border"
+			],
+			[
+				"gua",
+				"guardianLogo"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"opinion",
+				"opinion-section"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"wh",
+				"white_h3"
+			],
+			[
+				"art",
+				"art_small"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"spa",
+				"spaced_row"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"fle",
+				"flex-grow"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"pull",
+				"pull-bottom"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"tec",
+				"technology"
+			],
+			[
+				"tech",
+				"technology"
+			],
+			[
+				"borde",
+				"border-top-color"
+			],
+			[
+				"Ar",
+				"Arvo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: es",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Roberto/Documents/reactnative/albums/src/components/CardSection.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/src/components/Card.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/src/components/Button.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/src/components/AlbumDetails.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/src/components/AlbumList.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/src/components/header.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/index.android.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/src/components/app.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/app.json",
+		"/C/Users/Roberto/Documents/reactnative/albums/index.ios.js",
+		"/C/Users/Roberto/Documents/reactnative/albums/.eslintrc",
+		"/C/Users/Roberto/AwsomeProject/App.js",
+		"/C/Users/Roberto/my-new-project/screens/HomeScreen.js",
+		"/C/Users/Roberto/my-new-project/navigation/MainTabNavigator.js",
+		"/C/Users/Roberto/Desktop/pg css/index.html",
+		"/C/Users/Roberto/Desktop/pg css/styles.css",
+		"/C/Users/Roberto/Desktop/DSA/Front-End Web Development/Assignment1/Final/BScHn2016B_FDWM_A1_Roberto_Carboni/index.html",
+		"/C/xampp/htdocs/assign2/Neill/application/controllers/MovieController.php",
+		"/C/xampp/htdocs/assign2/Neill/application/models/MovieModel.php",
+		"/C/xampp/htdocs/assign2/Neill/application/views/MovieView.php",
+		"/C/xampp/htdocs/assign1/application/views/gadgets_view.php",
+		"/C/xampp/htdocs/assign1/application/controllers/GmController.php",
+		"/C/xampp/htdocs/assign1/application/models/GetAllGadgets.php",
+		"/C/xampp/htdocs/assign1/application/models/GetGadgetsByType.php",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/js/scripts.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/js/controller.js",
+		"/C/xampp/htdocs/assign1/gadget_master/index.html",
+		"/C/xampp/htdocs/assign1/gadget_master/js/gadget_master.js",
+		"/C/xampp/htdocs/assign1/GadgetMaster/js/gadget_master.js",
+		"/C/xampp/htdocs/assign1/GadgetMaster/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 1/index.html",
+		"/C/xampp/htdocs/assign1/application/models/GmModel.php",
+		"/C/xampp/htdocs/assign1/application/models/GetAllGadgets.class.php",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 1/json/gadgets.json",
+		"/C/xampp/htdocs/ws9/application/views/news_items.php",
+		"/C/xampp/htdocs/assign1/application/config/autoload.php",
+		"/C/xampp/htdocs/assign1/application/config/database.php",
+		"/C/xampp/htdocs/assign1/application/config/config.php",
+		"/C/xampp/htdocs/ws10/application/controllers/Patients.php",
+		"/C/xampp/htdocs/ws10/application/views/patient_report.php",
+		"/C/xampp/htdocs/ws9/application/models/Patients_model.php",
+		"/C/xampp/htdocs/ws8/model.php",
+		"/C/xampp/htdocs/ws8/controller.php",
+		"/C/xampp/htdocs/ws6/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/ws9/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/ws9/application/models/News_model.php",
+		"/C/xampp/htdocs/ws9/application/controllers/News.php",
+		"/C/xampp/htdocs/ws9/CodeIgniter-3.1.4/application/models/News_model.php",
+		"/C/xampp/htdocs/ws9/CodeIgniter-3.1.4/application/controllers/News.php",
+		"/C/xampp/htdocs/ws8/index.php",
+		"/C/xampp/htdocs/ws5/view.php",
+		"/C/xampp/htdocs/ws5/model.php",
+		"/C/xampp/htdocs/ws5/collectData.php",
+		"/C/xampp/htdocs/ws6/CodeIgniter-3.1.4/application/views/news_items.php",
+		"/C/xampp/htdocs/ws6/CodeIgniter-3.1.4/application/controllers/News.php",
+		"/C/xampp/htdocs/ws6/CodeIgniter-3.1.4/application/views/templates/news_footer.php",
+		"/C/xampp/htdocs/ws6/CodeIgniter-3.1.4/application/views/templates/news_items.php",
+		"/C/xampp/htdocs/ws6/CodeIgniter-3.1.4/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/ws6/CodeIgniter-3.1.4/application/views/news_footer.php",
+		"/C/xampp/htdocs/ws6/CodeIgniter-3.1.4/application/views/news_header.php",
+		"/C/xampp/htdocs/ws6/CodeIgniter-3.1.4/application/controllers/index.html",
+		"/C/xampp/htdocs/u6a2/controller.php",
+		"/C/xampp/htdocs/u6a2/model.php",
+		"/C/xampp/htdocs/u6a2/view.php",
+		"/C/xampp/htdocs/u6a2/index.php",
+		"/C/xampp/htdocs/u6a1/model.php",
+		"/C/xampp/htdocs/u6a1/controller.php",
+		"/C/xampp/htdocs/u6a1/view.php",
+		"/C/xampp/htdocs/u6a1/index.php",
+		"/C/xampp/htdocs/u5a2/model.php",
+		"/C/xampp/htdocs/u5a2/index.php",
+		"/C/xampp/htdocs/u5a2/view.php",
+		"/C/xampp/htdocs/u5a2/controller.php",
+		"/C/xampp/htdocs/u4a1/user.class.php",
+		"/C/xampp/htdocs/u4a1/test.php",
+		"/C/xampp/htdocs/ws5/controller.php",
+		"/C/xampp/htdocs/ws5/index.php",
+		"/C/xampp/htdocs/ws5/forms.html",
+		"/C/xampp/htdocs/u5a1/collectData.php",
+		"/C/xampp/htdocs/u5a1/forms.html",
+		"/C/xampp/htdocs/ws4/shape.class.php",
+		"/C/xampp/htdocs/ws4/setup.class.php",
+		"/C/xampp/htdocs/ws4/test.php",
+		"/C/xampp/htdocs/u4a2/fruit.class.php",
+		"/C/xampp/htdocs/u4a2/test.php",
+		"/C/xampp/htdocs/ws3/shapes.class.php",
+		"/C/xampp/htdocs/unit3_activity1/index.php",
+		"/C/xampp/htdocs/unit3_activity1/userAccount.class.php",
+		"/C/xampp/htdocs/unit2/workshop2/workshop2.php",
+		"/C/Users/Roberto/Desktop/DSA/MVC Application Frameworks/Unit 3/Activity 1/userAccount.class.php",
+		"/C/Users/Roberto/Desktop/DSA/MVC Application Frameworks/Unit 3/Activity 1/index.php",
+		"/C/xampp/htdocs/unit2/activity2/arrays.php",
+		"/C/xampp/htdocs/MVCWorkshop1/test.php",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 16/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 16/js/scripts.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 3/neill/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 3/neill/js/scripts.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 3/neill/css/styles.css",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 3/js/script.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 3/css/main.css",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 3/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 3/js/angular.min.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/config.xml",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/css/custom.css",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/css/jquery.mobile-1.1.2.min.css",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/js/jquery-1.7.2.min.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-3/js/controller.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-2/js/controller.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-3/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 15/partials/faq.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 15/modules/myModule.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 15/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 15/partials/basic-template.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-3/css/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-3/css/angular-route.min.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-3/css/custom.css",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-3/js/scripts.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-2/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2-2/js/scripts.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/js/angular-datepicker.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/css/angular-datepicker.css",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/css/angular-moment-picker.min.css",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Assignment 2/js/moment-with-locales.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 14/js/controller.js",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 14/index.html",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 13/css/styles.css",
+		"/C/Users/Roberto/Desktop/DSA/Mobile Development/Workshop 13/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mainButton",
+			"getStartedText",
+			"welcomeImage",
+			"\"",
+			" ;",
+			"newItems.dead",
+			"newItems.desc",
+			"newItems.name",
+			"delete",
+			"newItems.priority",
+			"grey_bg",
+			"flex",
+			"art_flex",
+			"rel",
+			"comments_space",
+			"grey",
+			"auth_stamp",
+			"Merriweather+Sans",
+			"header_spacer",
+			"spacer",
+			"header_spacer",
+			".header_spacer",
+			"spacer",
+			"apert",
+			"Arvo",
+			"cond_rem_pa",
+			"cond_rem_pad",
+			"rem_",
+			"grey_border",
+			"auth_stamp",
+			"logo",
+			"logos_space",
+			"aut",
+			"foot_navBar",
+			"main_navBar",
+			"navBar_row",
+			"art_xsmall_sm",
+			"row_flex",
+			"art_xsmall_sm",
+			"tart_xsmall_sm",
+			"bottom_bl",
+			"rev",
+			"reviews",
+			"height_",
+			"flex",
+			"height_",
+			"text_flex",
+			"hide_overflow",
+			"art_small_img",
+			"text_flex",
+			"art_xsmall",
+			"opinions",
+			"grey_border",
+			"hide_overflow",
+			"height_short",
+			"height_short_sm",
+			"art_small",
+			"main_navBar",
+			"art_small_img",
+			"height_",
+			"grey_border",
+			"height_",
+			"height",
+			"tech_row",
+			"allStories_btn",
+			"main_",
+			"heigh",
+			"hei",
+			"height_",
+			"text_flex",
+			"tech_section",
+			"left_col",
+			"allStories_btn",
+			"font-family",
+			"lg_signup_btn",
+			"hangup_btn",
+			"ifnot",
+			"start_info",
+			"signup_1",
+			"create_btn",
+			"details_space",
+			"large",
+			"important",
+			"you_round_icon",
+			"signup_1",
+			"profsetup_intro",
+			"create_btn",
+			"h1",
+			"blue",
+			"description_",
+			"more_space",
+			"rev_central_space",
+			"more_space",
+			"*/\n",
+			"vw",
+			"jumbo",
+			"#online_space",
+			"online_space",
+			"#loc_space",
+			"loc_space",
+			"rt_star_",
+			"rt_star",
+			"section",
+			"info",
+			"span",
+			"li",
+			"div",
+			"header",
+			"label",
+			"button",
+			"signup",
+			"focus",
+			"hover",
+			"span",
+			"div",
+			"bt",
+			"blue",
+			"p",
+			"button",
+			".large_ol li",
+			"placeholder",
+			"sub_btn",
+			"box",
+			"section",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"newItemsDead",
+			"newItemsDesc",
+			"newItemsName",
+			"priority",
+			"",
+			"MerriweatherSans",
+			"Merriweather",
+			"opi",
+			"opinions",
+			"people",
+			"h2",
+			"vmax",
+			"div",
+			"p",
+			"h2",
+			"button",
+			"p",
+			"div",
+			"hover",
+			"focus",
+			"div",
+			"span",
+			"div",
+			"section"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "reactnative_course.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
